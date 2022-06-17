@@ -1,17 +1,17 @@
-export default function cycle(
+export function cycle(
   arr: any[],
-  dir: ?string,
-  startingIndex: ?number
+  dir?: string,
+  startingIndex?: number
 ): Generator;
 
-export default function scan(
+export function scan(
   arr: any[],
-  dir: ?string,
-  startingIndex: ?number
+  dir?: string,
+  startingIndex?: number
 ): Generator;
 
-export default function bounce(
+export function bounce(
   arr: any[][],
-  sx: ?number,
-  sy: ?number
+  sx?: number,
+  sy?: number
 ): Generator;
