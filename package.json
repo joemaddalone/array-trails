@@ -1,0 +1,27 @@
+{
+  "name": "array-trails",
+  "version": "1.0.0",
+  "description": "Traverse arrays in interesting ways",
+  "type": "module",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "standard && node test"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joemaddalone/array-trails.git"
+  },
+  "author": "Joe Maddalone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joemaddalone/array-trails/issues"
+  },
+  "homepage": "https://github.com/joemaddalone/array-trails#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
