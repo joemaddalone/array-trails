@@ -2,6 +2,10 @@
 
 Traverse arrays in interesting ways.
 
+## Demo
+
+https://codesandbox.io/s/array-trails-w56uck?file=/src/index.js
+
 ## Installation
 
 ```sh
